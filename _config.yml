@@ -3,7 +3,8 @@
 # # # # # # # #
 
 # Basic
-name:               "Kiko"
+name:               "Swift"
+subname:             ".tnantoka.com"
 
 # URL
 baseurl:            ""
@@ -16,9 +17,11 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//kiko.gfjaru.com/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "/about"
+  - name:           "Links"
+    href:           "/links"
+  - name:           "25 Days"
+    href:           "/25days"
 
 # Sass
 sass:
