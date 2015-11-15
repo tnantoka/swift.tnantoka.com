@@ -200,7 +200,9 @@ Thanks to:
 ## Implement the rest of features
 
 At this point, the core of library is created. 
-Omit remaining features from this article, but all source codes are available on GitHub.
+Omit remaining features from this article, but all source codes are available on GitHub:
+
+<https://github.com/tnantoka/GitHubAuth>
 
 ## Publish to CocoaPods
 

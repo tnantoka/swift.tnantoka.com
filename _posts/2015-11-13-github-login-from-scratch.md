@@ -144,4 +144,4 @@ That's all for today.
 
 ## Source code
 
-- <https://github.com/tnantoka/swift-examples/GitHubLoginFromScratch>
+- <https://github.com/tnantoka/swift-examples/tree/master/GitHubLoginFromScratch>
