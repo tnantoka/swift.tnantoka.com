@@ -3,6 +3,8 @@ title: Create first iPhone app in 25 days
 permalink: /25days/
 ---
 
+It's an early advent calendar.
+
 <table>
   <tr>
     <th>Day 1</th>
@@ -14,13 +16,13 @@ permalink: /25days/
     <th>Day 7</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href="/2015/11/15/day-1-install-tools.html">Install Xcode, Ruby and CocoaPods</a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
   </tr>
 
   <tr>
@@ -33,13 +35,13 @@ permalink: /25days/
     <th>Day 14</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
   </tr>
 
   <tr>
@@ -52,13 +54,13 @@ permalink: /25days/
     <th>Day 21</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
   </tr>
 
   <tr>
@@ -71,10 +73,10 @@ permalink: /25days/
     <th></th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
+    <td><a href=""></a></td>
     <td></td>
     <td></td>
     <td></td>
