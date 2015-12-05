@@ -125,7 +125,7 @@ func getUser(accessToken: String) {
   
 ## Run
 
-1. Build and then run the current scheme or press command + R key.
+1. Click `Build and then run the current scheme` or press `command + R` key.
   ![](/images/github-login-from-scratch/11-launch.png)
 1. Sign in to GitHub on webview.
   ![](/images/github-login-from-scratch/12-github.png)

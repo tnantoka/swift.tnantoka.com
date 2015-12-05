@@ -3,7 +3,7 @@ title: Using SFSafariViewController
 ---
 
 To display web contents in the app, it sounds like SFSafariViewController is useful, but I have never used it.
-So today, I write some example codes.
+So today, I'll write some example codes.
 
 ## Create project
 

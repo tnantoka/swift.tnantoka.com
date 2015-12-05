@@ -2,7 +2,7 @@
 title: "My first library written in Swift: GitHubAuth"
 ---
 
-Yesterday, I create sign in with GitHub from scratch.
+[Yesterday](/2015/11/13/github-login-from-scratch.html), I wrote codes to sign in with GitHub from scratch.
 Today I'll make it compatible with CocoaPods.
 
 ## API
@@ -54,7 +54,7 @@ public class GitHubAuth {
 
 ## Create Sign In View Controller
 
-Create view controller and implement signing in feature as previous article.
+Create view controller and implement signing in feature as [previous article](/2015/11/13/github-login-from-scratch.html).
 
 1. Add a new view controller class.
 1. Add a new storyboard and configure custom class.
@@ -147,7 +147,7 @@ Now we can sign in with GitHub in example app.
 
 ## Store access token to keychain
 
-I always use [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) for keychain, but today I implement myself to reduce dependencies.
+I always use [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) for accessing keychain, but today I implement myself to reduce dependencies.
 
 {% highlight swift %}
 public internal(set) var accessToken: String {
@@ -209,7 +209,7 @@ Omit remaining features from this article, but all source codes are available on
 Finally, let's publish my library on CocoaPods.
 
 Here is a docment:
-https://guides.cocoapods.org/making/using-pod-lib-create.html>
+<https://guides.cocoapods.org/making/using-pod-lib-create.html>
 
 {% highlight sh %}
 # Local
@@ -226,5 +226,6 @@ $ pod trunk push
 {% endhighlight %}
 
 That's all.
-Now, my first swift library have been published!
+Now, [my first swift library have been published!](https://cocoapods.org/?q=GitHubAuth)
+
 

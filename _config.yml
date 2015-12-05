@@ -18,6 +18,8 @@ markdown:           rdiscount
 nav:
   - name:           "About"
     href:           "/about"
+  - name:           "Apps & Libs"
+    href:           "/apps_and_libs"
   - name:           "25 Days"
     href:           "/25days"
 

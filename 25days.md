@@ -3,7 +3,7 @@ title: Create first iPhone app in 25 days
 permalink: /25days/
 ---
 
-It's an early advent calendar.
+It's an early advent calendar 2015.
 
 <table>
   <tr>
@@ -17,7 +17,7 @@ It's an early advent calendar.
   </tr>
   <tr>
     <td><a href="/2015/11/15/day-1-install-tools.html">Install Xcode, Ruby and CocoaPods</a></td>
-    <td><a href=""></a></td>
+    <td><a href="/2015/11/16/day-2-user-interface-catalog.html">Learn standard user interface from UI catalog</a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
